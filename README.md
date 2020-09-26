@@ -5,7 +5,3 @@ Completed 01 September 2020.
 
 Projec1.java will compute the minimum, maximum, and average of a collection of Weight objects.
 The Weight class contains variables for pounds and ounces and methods to add to, divide, and compare weights.
-
-Also included in this repo is the original assignment and test files.
-
-Don't cheat!
